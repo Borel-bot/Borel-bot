@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borel Lepatio</h1>
 <h3 align="center">A passionate programmer from Cameroon</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVvZWoxYzN1ZTJibXN4em5tc3dwd2thbGFsYjlrcm40dmg5bTRrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVvZWoxYzN1ZTJibXN4em5tc3dwd2thbGFsYjlrcm40dmg5bTRrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borel-bot&label=Profile%20views&color=0e75b6&style=flat" alt="borel-bot" /> </p>
 
